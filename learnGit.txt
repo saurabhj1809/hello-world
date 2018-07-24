@@ -12,4 +12,6 @@ git checkout -- filename  - to undo the uncommitted changes
 git checkout -- .   - to undo the uncommitted changes from multiple files
 
 
-garbages1
+git revert commitId  - to undo the committed changes
+
+To get commitId use git log command
