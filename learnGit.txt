@@ -14,4 +14,8 @@ git checkout -- .   - to undo the uncommitted changes from multiple files
 
 git revert commitId  - to undo the committed changes
 
-To get commitId use git log command
+* To get commitId use git log command
+
+git reset --hard commitId  - to undo the changes to a particular commit
+
+
