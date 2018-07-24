@@ -5,4 +5,7 @@ git commit
 git push
 
 
-git difftool HEAD
+git difftool HEAD - to compare the versions
+
+git checkout -- filename  - to undo the changes
+
