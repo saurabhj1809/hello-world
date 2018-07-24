@@ -12,4 +12,4 @@ git checkout -- filename  - to undo the uncommitted changes
 git checkout -- .   - to undo the uncommitted changes from multiple files
 
 
-garbage
+garbages
