@@ -3,3 +3,6 @@ print Learn Git
 git add
 git commit
 git push
+
+
+git difftool HEAD
