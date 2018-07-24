@@ -7,5 +7,6 @@ git push
 
 git difftool HEAD - to compare the versions
 
-git checkout -- filename  - to undo the changes
+git checkout -- filename  - to undo the uncommitted changes
 
+git checkout -- .   - to undo the uncommitted changes from multiple files
