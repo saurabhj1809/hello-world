@@ -24,4 +24,10 @@ git checkout branchname - to switch between branches
 
 git merge branchname - to merge 2 branches
 
+git push --set-upstream origin branchname - to add branch to a repository in github
+
+git checkout -b branchname - to create and checkout a new branch
+
+git branch -d branch name - to delete a branch
+
 
