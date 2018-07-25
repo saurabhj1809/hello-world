@@ -18,4 +18,8 @@ git revert commitId  - to undo the committed changes
 
 git reset --hard commitId  - to undo the changes to a particular commit
 
+git branch branchname - to create new branch name
+
+git checkout branchname - to switch between branches
+
 
