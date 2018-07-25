@@ -18,4 +18,6 @@ git revert commitId  - to undo the committed changes
 
 git reset --hard commitId  - to undo the changes to a particular commit
 
+------------------25th July -----------------
+
 
